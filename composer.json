@@ -1,0 +1,9 @@
+{
+    "name": "eric/cossette",
+    "description": "Developer Applicant Test for Cossette",
+    "type": "project",
+    "minimum-stability": "stable",
+    "require": {
+        "guzzlehttp/guzzle": "^6.5"
+    }
+}
